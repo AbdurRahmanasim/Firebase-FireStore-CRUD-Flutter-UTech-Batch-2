@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "268601263672",
+    "project_id": "utech-flutter-batch-2",
+    "storage_bucket": "utech-flutter-batch-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268601263672:android:59ab9802ecc7a64c2888cd",
+        "android_client_info": {
+          "package_name": "com.example.app1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJatgOi22Un9Wu3RiH0Yvfz8n36RXINdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268601263672:android:9e149b9c17f29d972888cd",
+        "android_client_info": {
+          "package_name": "com.example.class17"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJatgOi22Un9Wu3RiH0Yvfz8n36RXINdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268601263672:android:2383715dd9db79c22888cd",
+        "android_client_info": {
+          "package_name": "com.example.class19"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJatgOi22Un9Wu3RiH0Yvfz8n36RXINdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
