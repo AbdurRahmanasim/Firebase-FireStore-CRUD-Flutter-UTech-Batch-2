@@ -11,6 +11,7 @@ class _InfoState extends State<Info> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      
       body: Center(
         child: Text("INFO  PAGE"),
       ),

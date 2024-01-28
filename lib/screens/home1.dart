@@ -19,6 +19,7 @@ class _Home1State extends State<Home1> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      // bottomNavigationBar: ,
       // drawer: Drawer(
       //   backgroundColor: Colors.red,
       //   child: Column(
@@ -120,7 +121,9 @@ class _Home1State extends State<Home1> {
       appBar: AppBar(
         title: const Text("Home Page"),
         backgroundColor: Colors.amber,
+
       ),
+      
       body: screens[activeScreen],
     );
   }

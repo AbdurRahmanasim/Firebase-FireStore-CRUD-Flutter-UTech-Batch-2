@@ -41,6 +41,7 @@ dependencies:
   firebase_database: ^10.4.0
   sidebarx: ^0.16.3
   ionicons: ^0.2.2
+  circular_bottom_navigation: ^2.3.0
 
 dev_dependencies:
   flutter_test:
