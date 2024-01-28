@@ -1,5 +1,7 @@
 import 'package:class19/firebase_options.dart';
 import 'package:class19/screens/home.dart';
+import 'package:class19/screens/home1.dart';
+import 'package:class19/screens/realtime.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 
@@ -23,7 +25,7 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Home(),
+      home: Home1(),
     );
   }
 }

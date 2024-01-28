@@ -52,6 +52,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '268601263672',
     projectId: 'utech-flutter-batch-2',
     authDomain: 'utech-flutter-batch-2.firebaseapp.com',
+    databaseURL:
+        'https://utech-flutter-batch-2-default-rtdb.firebaseio.com/', // IMPORTANT!
     storageBucket: 'utech-flutter-batch-2.appspot.com',
   );
 
@@ -60,6 +62,9 @@ class DefaultFirebaseOptions {
     appId: '1:268601263672:android:2383715dd9db79c22888cd',
     messagingSenderId: '268601263672',
     projectId: 'utech-flutter-batch-2',
+    databaseURL:
+        'https://utech-flutter-batch-2-default-rtdb.firebaseio.com/', // IMPORTANT
+
     storageBucket: 'utech-flutter-batch-2.appspot.com',
   );
 
@@ -69,6 +74,9 @@ class DefaultFirebaseOptions {
     messagingSenderId: '268601263672',
     projectId: 'utech-flutter-batch-2',
     storageBucket: 'utech-flutter-batch-2.appspot.com',
+    databaseURL:
+        'https://utech-flutter-batch-2-default-rtdb.firebaseio.com/', // IMPORTANT!
+
     iosBundleId: 'com.example.class19',
   );
 }
